@@ -12,3 +12,8 @@ If you are interested in becoming involved with CoPerception, here are some ways
 We believe there are many benefits of hosting everyone’s research project (code/data repository) under this open organization, because it would allow researchers in this emerging community to more easily find new works in this direction.
 
 Any contributions you make are greatly appreciated. We hope you enjoy being part of this growing CoPerception community and look forward to collaborating with you!
+
+# [The First CoPerception Workshop at IEEE ICRA 2023](https://coperception.github.io/)
+We are delighted to host the first CoPerception workshop with invited talk, papers, and awards. 
+
+For more information, please check [the workshop page](https://coperception.github.io/)
